@@ -33,7 +33,7 @@
 *   **Afterburner:** `Ctrl + R x2`
 
 ---
-video: https://www.youtube.com/watch?v=d0spDi0o29Y&list=PLfHYROeW-buoSLKWsTKrWyaxiAQ4LxtJ9&index=2
+**Video:** [A320neo v2 Tutorial](https://www.youtube.com/watch?v=d0spDi0o29Y&list=PLfHYROeW-buoSLKWsTKrWyaxiAQ4LxtJ9&index=2)
 
 ## 📋 FLIGHT BRIEFING (Example Flight)
 *   **Aircraft:** A320neo v2 (Select a **Gate**, not a runway)
